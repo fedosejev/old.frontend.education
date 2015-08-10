@@ -1,2 +1,2 @@
-# frontend.education
-Source for frontend.education website.
+# FrontEnd.Education
+Source code for [frontend.education](http://frontend.education) website.
