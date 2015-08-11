@@ -49,6 +49,8 @@ If you want to add a link, then use this template:
 </article>
 ```
 
+__Note:__ the description is optional.
+
 ### Question
 
 If you want to ask a question, then use this template:
@@ -60,7 +62,7 @@ If you want to ask a question, then use this template:
 </article>
 ```
 
-__Note:__ long version is optional.
+__Note:__ the long version is optional.
 
 ### Emotion
 
@@ -72,6 +74,8 @@ If you want to express emotion with a gif, then use this template:
   <img src="http://google.com/happy.gif" alt="I am happy" />
 </article>
 ```
+
+__Note:__ the comment is optional.
 
 ## Question or suggestions?
 
