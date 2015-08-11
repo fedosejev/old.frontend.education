@@ -16,6 +16,8 @@ Source code for [frontend.education](http://frontend.education) website.
 
 ## How to add your own content?
 
+Edit `index.html` file.
+
 ### Add your explanation
 
 If you want to explain something the way __you__ understand it, then use this template:
