@@ -2,13 +2,35 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Explain the front end in your own words</title>
+  <title>the front end explained in other words</title>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,300,600,700,600italic,700italic,800,800italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
   <style>
+    
+    body {
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    h1 {
+      font-style: italic;
+      text-transform: lowercase;
+    }
+
+    h2 {
+      font-weight: 300;
+      font-size: 21px;
+      line-height: 1.4em;
+    }
+    
     article {
       margin: 20px 0;
     }
+
+    article img {
+      width: 100%;
+      max-width: 250px;
+    }
+
   </style>
 
 </head>
@@ -25,11 +47,20 @@
     <p>Then explain it here.</p>
   </article>
 
+  You can also add images, for example:
+
+  <article>
+    <h3>Tell us what are you going to explain</h3>
+    <p>Then explain it here.</p>
+    <img src="http://google.com/google-logo.png" alt="Google Logo" />
+    <p>Then continue explaining it here.</p>
+  </article>
+
   2. If you want to add a link, then use this template:
 
   <article>
     <a href="http://google.com">Google</a>
-    <p>Describe your link here.</p>
+    <p>OPTIONAL: Describe your link here.</p>
   </article>
 
   3. If you want to ask a question, then use this template:
@@ -42,6 +73,7 @@
   4. If you want to express emotion with a gif, then use this template:
 
   <article>
+    <h4>OPTIONAL: Put comment here</h4>
     <img src="http://google.com/happy.gif" alt="I am happy" />
   </article>
 
@@ -51,12 +83,16 @@
 
   -->
 
-  <h1>Explain the front end in your own words</h1>
-  <h2>Explain something the way <em>you</em> understand it. Share your explanations, links, questions, or gifs.</h2>
+  <div class="container">
 
-  <section id="content">
-    <!-- Put your HTML here -->
-  </section>
+    <h1>The front end explained in other words</h1>
+    <h2>Explain it the way <em>you</em> understand it. Share your explanations, links, questions, or gifs.</h2>
+
+    <section id="content">
+      <!-- Put your HTML here -->
+    </section>
+
+  </div>
 
 </body>
 </html>
