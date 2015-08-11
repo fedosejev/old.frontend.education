@@ -22,8 +22,8 @@ If you want to explain something the way __you__ understand it, then use this te
 
 ```html
 <article>
-<h3>Tell us what are you going to explain</h3>
-<p>Then explain it here.</p>
+  <h3>Tell us what are you going to explain</h3>
+  <p>Then explain it here.</p>
 </article>
 ```
 
@@ -31,10 +31,10 @@ You can also add images, for example:
 
 ```html
 <article>
-<h3>Tell us what are you going to explain</h3>
-<p>Then explain it here.</p>
-<img src="http://google.com/google-logo.png" alt="Google Logo" />
-<p>Then continue explaining it here.</p>
+  <h3>Tell us what are you going to explain</h3>
+  <p>Then explain it here.</p>
+  <img src="http://google.com/google-logo.png" alt="Google Logo" />
+  <p>Then continue explaining it here.</p>
 </article>
 ```
 
@@ -44,8 +44,8 @@ If you want to add a link, then use this template:
 
 ```html
 <article>
-<a href="http://google.com">Google</a>
-<p>OPTIONAL: Describe your link here.</p>
+  <a href="http://google.com">Google</a>
+  <p>OPTIONAL: Describe your link here.</p>
 </article>
 ```
 
@@ -66,8 +66,8 @@ If you want to express emotion with a gif, then use this template:
 
 ```html
 <article>
-<h4>OPTIONAL: Put comment here</h4>
-<img src="http://google.com/happy.gif" alt="I am happy" />
+  <h4>OPTIONAL: Put comment here</h4>
+  <img src="http://google.com/happy.gif" alt="I am happy" />
 </article>
 ```
 
