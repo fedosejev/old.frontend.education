@@ -12,7 +12,7 @@ Source code for [frontend.education](http://frontend.education) website.
 5. `git add .`
 6. `git commit -m "Put your commit comment here"`
 7. `git push`
-8. Go to `http://frontend.education` to see your update.
+8. Go to [frontend.education](http://frontend.education) to see your update.
 
 ## How to add your own content?
 
