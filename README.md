@@ -16,7 +16,7 @@ Source code for [frontend.education](http://frontend.education) website.
 
 ## How to add your own content?
 
-### Explanation
+### Add your explanation
 
 If you want to explain something the way __you__ understand it, then use this template:
 
@@ -38,7 +38,7 @@ You can also add images, for example:
 </article>
 ```
 
-### Link
+### Add your link
 
 If you want to add a link, then use this template:
 
@@ -51,7 +51,7 @@ If you want to add a link, then use this template:
 
 __Note:__ the description is optional.
 
-### Question
+### Add your question
 
 If you want to ask a question, then use this template:
 
@@ -64,7 +64,7 @@ If you want to ask a question, then use this template:
 
 __Note:__ the long version is optional.
 
-### Emotion
+### Express your emotion
 
 If you want to express emotion with a gif, then use this template:
 
