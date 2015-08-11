@@ -60,6 +60,8 @@ If you want to ask a question, then use this template:
 </article>
 ```
 
+__Note:__ long version is optional.
+
 ### Emotion
 
 If you want to express emotion with a gif, then use this template:
