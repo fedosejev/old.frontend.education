@@ -55,8 +55,8 @@ If you want to ask a question, then use this template:
 
 ```html
 <article>
-<p>Put short version of your question here.</p>
-<p>OPTIONAL: Put long version of your question here.</p>
+	<p>Put short version of your question here.</p>
+	<p>OPTIONAL: Put long version of your question here.</p>
 </article>
 ```
 
