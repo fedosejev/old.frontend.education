@@ -8,7 +8,7 @@ Source code for [frontend.education](http://frontend.education) website.
 2. `cd frontend.education`
 3. `git checkout gh-pages`
 3. Open `index.html` in Sublime Text (any other editor).
-4. Edit `index.html`: use one of the templates below.
+4. Edit `index.html`: [read how to](https://github.com/fedosejev/frontend.education#how-to-add-your-own-content).
 5. `git add .`
 6. `git commit -m "Put your commit comment here"`
 7. `git push`
