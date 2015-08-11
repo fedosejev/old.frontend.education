@@ -77,6 +77,6 @@ If you want to express emotion with a gif, then use this template:
 
 __Note:__ the comment is optional.
 
-## Question or suggestions?
+## Questions or suggestions?
 
 Email Art: [artemij.fedosejev@gmail.com](mailto:artemij.fedosejev@gmail.com)
